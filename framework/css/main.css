@@ -25,12 +25,15 @@ body {
 }
 
 hr {
-	border: 1px solid #747784;
+	border: 1px solid #2d3c49;
 }
 
 img {
 	max-width: 100%;
 }
 
+a {
+    word-wrap: break-word;
+}
 /*The gear images is from
 https://ndpbluenotedotcom.files.wordpress.com/2012/11/gears-21.jpg*/
