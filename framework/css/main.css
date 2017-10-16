@@ -1,0 +1,36 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	color: #747784;
+}
+
+.text-thin {
+	font-weight: 400;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.title-super {
+	font-weight: 60px;
+}
+
+.add-margin {
+	margin-top: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+hr {
+	border: 1px solid #747784;
+}
+
+img {
+	max-width: 100%;
+}
+
+/*The gear images is from
+https://ndpbluenotedotcom.files.wordpress.com/2012/11/gears-21.jpg*/

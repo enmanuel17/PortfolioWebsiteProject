@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Porfolio</title>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+  <link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="grid">
+    <div class="row">
+      <div class="col-6">
+      		<img src="pictures/udacity.svg" alt="Top logo"> 
+      </div>
+      <div class="col-6">
+      		<h1 class="text-thin">Enmanuel Hernandez</h1>
+      		<h4>Full Stack Ninja</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+      		<hr>
+      </div>
+    </div>
+    <div class="row">
+    	<div class="col-12">
+    			<img src="http://placekitten.com/960/350" alt="Main page picture">
+    	</div>
+    </div>
+    <div class="row">
+    	<div class="col-12">
+    		<h2 class="text-thin">Featured Work</h2>
+    	</div>
+    </div>
+    <div class="row">
+        <div class="col-4">
+        		<img src="http://placekitten.com/170/150" alt="Project 1 picture">
+        		<h3>App1</h3>
+        		<a href="https://github.com/enmanuel17">App3 github</a>
+        </div>
+      	<div class="col-4">
+      			<img src="http://placekitten.com/170/150" alt="Project 2 picture">
+      			<h3>App2</h3>
+      			<a href="https://github.com/enmanuel17">App3 github</a>
+      	</div>
+      	<div class="col-4">
+      			<img src="http://placekitten.com/170/150" alt="Project 3 picture">
+      			<h3>App3</h3>
+      			<a href="https://github.com/enmanuel17">App3 github</a>
+      	</div>
+    </div>
+  </div>
+</body>
+</html>
+
+
