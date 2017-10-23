@@ -1,11 +1,5 @@
-@media (min-width: 768px) and (max-width: 1000px) {
-   .collapse {
-       display: none !important;
-   }
-}
-
 body {
-	font-family: 'PT Sans', sans-serif;
+	font-family: "PT Sans", sans-serif;
 	font-weight: 700;
 	color: #747784;
 }
@@ -15,7 +9,7 @@ body {
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .title-super {
